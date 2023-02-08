@@ -1,0 +1,54 @@
+C:\Users\Guido\source\repos\ProyectoFinal\bin\Debug\ProyectoFinal.exe.config
+C:\Users\Guido\source\repos\ProyectoFinal\bin\Debug\ProyectoFinal.exe
+C:\Users\Guido\source\repos\ProyectoFinal\bin\Debug\ProyectoFinal.pdb
+C:\Users\Guido\source\repos\ProyectoFinal\bin\Debug\EntityFramework.dll
+C:\Users\Guido\source\repos\ProyectoFinal\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Guido\source\repos\ProyectoFinal\bin\Debug\EntityFramework.xml
+C:\Users\Guido\source\repos\ProyectoFinal\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Guido\source\repos\ProyectoFinal\obj\Debug\ProyectoFinal.csproj.AssemblyReference.cache
+C:\Users\Guido\source\repos\ProyectoFinal\obj\Debug\ProyectoFinal.Properties.Resources.resources
+C:\Users\Guido\source\repos\ProyectoFinal\obj\Debug\ProyectoFinal.Login.resources
+C:\Users\Guido\source\repos\ProyectoFinal\obj\Debug\ProyectoFinal.csproj.GenerateResource.cache
+C:\Users\Guido\source\repos\ProyectoFinal\obj\Debug\ProyectoFinal.csproj.CoreCompileInputs.cache
+C:\Users\Guido\source\repos\ProyectoFinal\obj\Debug\ProyectoFinal.csproj.CopyComplete
+C:\Users\Guido\source\repos\ProyectoFinal\obj\Debug\ProyectoFinal.exe
+C:\Users\Guido\source\repos\ProyectoFinal\obj\Debug\ProyectoFinal.pdb
+C:\Users\isak4444\Desktop\Programas JonyWolf\Programacion\Fundacion Leon Futuros Programadores\Proyecto Final\ProyectoFinal\bin\Debug\ProyectoFinal.exe.config
+C:\Users\isak4444\Desktop\Programas JonyWolf\Programacion\Fundacion Leon Futuros Programadores\Proyecto Final\ProyectoFinal\bin\Debug\ProyectoFinal.exe
+C:\Users\isak4444\Desktop\Programas JonyWolf\Programacion\Fundacion Leon Futuros Programadores\Proyecto Final\ProyectoFinal\bin\Debug\ProyectoFinal.pdb
+C:\Users\isak4444\Desktop\Programas JonyWolf\Programacion\Fundacion Leon Futuros Programadores\Proyecto Final\ProyectoFinal\bin\Debug\EntityFramework.dll
+C:\Users\isak4444\Desktop\Programas JonyWolf\Programacion\Fundacion Leon Futuros Programadores\Proyecto Final\ProyectoFinal\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\isak4444\Desktop\Programas JonyWolf\Programacion\Fundacion Leon Futuros Programadores\Proyecto Final\ProyectoFinal\bin\Debug\EntityFramework.xml
+C:\Users\isak4444\Desktop\Programas JonyWolf\Programacion\Fundacion Leon Futuros Programadores\Proyecto Final\ProyectoFinal\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\isak4444\Desktop\Programas JonyWolf\Programacion\Fundacion Leon Futuros Programadores\Proyecto Final\ProyectoFinal\obj\Debug\ProyectoFinal.csproj.AssemblyReference.cache
+C:\Users\isak4444\Desktop\Programas JonyWolf\Programacion\Fundacion Leon Futuros Programadores\Proyecto Final\ProyectoFinal\obj\Debug\ProyectoFinal.Properties.Resources.resources
+C:\Users\isak4444\Desktop\Programas JonyWolf\Programacion\Fundacion Leon Futuros Programadores\Proyecto Final\ProyectoFinal\obj\Debug\ProyectoFinal.Login.resources
+C:\Users\isak4444\Desktop\Programas JonyWolf\Programacion\Fundacion Leon Futuros Programadores\Proyecto Final\ProyectoFinal\obj\Debug\ProyectoFinal.csproj.GenerateResource.cache
+C:\Users\isak4444\Desktop\Programas JonyWolf\Programacion\Fundacion Leon Futuros Programadores\Proyecto Final\ProyectoFinal\obj\Debug\ProyectoFinal.csproj.CoreCompileInputs.cache
+C:\Users\isak4444\Desktop\Programas JonyWolf\Programacion\Fundacion Leon Futuros Programadores\Proyecto Final\ProyectoFinal\obj\Debug\ProyectoFinal.csproj.CopyComplete
+C:\Users\isak4444\Desktop\Programas JonyWolf\Programacion\Fundacion Leon Futuros Programadores\Proyecto Final\ProyectoFinal\obj\Debug\ProyectoFinal.exe
+C:\Users\isak4444\Desktop\Programas JonyWolf\Programacion\Fundacion Leon Futuros Programadores\Proyecto Final\ProyectoFinal\obj\Debug\ProyectoFinal.pdb
+C:\Users\isak4444\Desktop\Programas JonyWolf\Programacion\Fundacion Leon Futuros Programadores\Proyecto Final\ProyectoFinal\obj\Debug\ProyectoFinal.ViewLayer.Admin.resources
+C:\Users\isak4444\Desktop\Programas JonyWolf\Programacion\Fundacion Leon Futuros Programadores\Proyecto Final\ProyectoFinal\obj\Debug\ProyectoFinal.ViewLayer.ABMLUsuarios.resources
+D:\GUIDO\Trabajo\Curso Fut Prog\Proyecto Final\ProyectoFinal\bin\Debug\ProyectoFinal.exe.config
+D:\GUIDO\Trabajo\Curso Fut Prog\Proyecto Final\ProyectoFinal\bin\Debug\ProyectoFinal.exe
+D:\GUIDO\Trabajo\Curso Fut Prog\Proyecto Final\ProyectoFinal\bin\Debug\ProyectoFinal.pdb
+D:\GUIDO\Trabajo\Curso Fut Prog\Proyecto Final\ProyectoFinal\bin\Debug\EntityFramework.dll
+D:\GUIDO\Trabajo\Curso Fut Prog\Proyecto Final\ProyectoFinal\bin\Debug\EntityFramework.SqlServer.dll
+D:\GUIDO\Trabajo\Curso Fut Prog\Proyecto Final\ProyectoFinal\bin\Debug\EntityFramework.xml
+D:\GUIDO\Trabajo\Curso Fut Prog\Proyecto Final\ProyectoFinal\bin\Debug\EntityFramework.SqlServer.xml
+D:\GUIDO\Trabajo\Curso Fut Prog\Proyecto Final\ProyectoFinal\obj\Debug\ProyectoFinal.csproj.AssemblyReference.cache
+D:\GUIDO\Trabajo\Curso Fut Prog\Proyecto Final\ProyectoFinal\obj\Debug\ProyectoFinal.csproj.SuggestedBindingRedirects.cache
+D:\GUIDO\Trabajo\Curso Fut Prog\Proyecto Final\ProyectoFinal\obj\Debug\ProyectoFinal.Properties.Resources.resources
+D:\GUIDO\Trabajo\Curso Fut Prog\Proyecto Final\ProyectoFinal\obj\Debug\ProyectoFinal.ViewLayer.ABMLUsuarios.resources
+D:\GUIDO\Trabajo\Curso Fut Prog\Proyecto Final\ProyectoFinal\obj\Debug\ProyectoFinal.ViewLayer.Admin.resources
+D:\GUIDO\Trabajo\Curso Fut Prog\Proyecto Final\ProyectoFinal\obj\Debug\ProyectoFinal.ViewLayer.AsientoGerente.resources
+D:\GUIDO\Trabajo\Curso Fut Prog\Proyecto Final\ProyectoFinal\obj\Debug\ProyectoFinal.ViewLayer.EspectaculoGerente.resources
+D:\GUIDO\Trabajo\Curso Fut Prog\Proyecto Final\ProyectoFinal\obj\Debug\ProyectoFinal.Login.resources
+D:\GUIDO\Trabajo\Curso Fut Prog\Proyecto Final\ProyectoFinal\obj\Debug\ProyectoFinal.csproj.GenerateResource.cache
+D:\GUIDO\Trabajo\Curso Fut Prog\Proyecto Final\ProyectoFinal\obj\Debug\ProyectoFinal.csproj.CoreCompileInputs.cache
+D:\GUIDO\Trabajo\Curso Fut Prog\Proyecto Final\ProyectoFinal\obj\Debug\ProyectoFinal.csproj.CopyComplete
+D:\GUIDO\Trabajo\Curso Fut Prog\Proyecto Final\ProyectoFinal\obj\Debug\ProyectoFinal.exe
+D:\GUIDO\Trabajo\Curso Fut Prog\Proyecto Final\ProyectoFinal\obj\Debug\ProyectoFinal.pdb
+D:\GUIDO\Trabajo\Curso Fut Prog\Proyecto Final\ProyectoFinal\obj\Debug\ProyectoFinal.ViewLayer.MainMenuUser.resources
+D:\GUIDO\Trabajo\Curso Fut Prog\Proyecto Final\ProyectoFinal\obj\Debug\ProyectoFinal.ViewLayer.RealizarCompras.resources
